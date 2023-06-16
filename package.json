@@ -1,8 +1,7 @@
 {
-	"name": "wa-client",
+	"name": "fitapp-client",
 	"author": {
-		"name": "Max [htmllessons.ru]",
-		"email": "info@htmllessons.ru"
+		"name": "Nikolay"
 	},
 	"private": true,
 	"version": "0.0.0",
