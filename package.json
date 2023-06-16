@@ -10,7 +10,8 @@
 		"dev": "vite",
 		"devhost": "vite --host",
 		"build": "vite build",
-		"preview": "vite preview"
+		"preview": "vite preview",
+		"previewhost": "vite preview --host"
 	},
 	"dependencies": {
 		"@tanstack/react-query": "^4.22.0",
